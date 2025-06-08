@@ -1,14 +1,14 @@
 /* App.css */
 body {
-  background: grgba(156, 143, 143, 0.493); /* Rouge semi-transparent */
-  backdrop-filter: blur(8px); /* Effet flou */
-  -webkit-backdrop-filter: blur(8px); /* Safari */
+  background: #a1a1a1; 
+  backdrop-filter: blur(8px); 
+  -webkit-backdrop-filter: blur(8px); 
   margin: 0;
   padding: 0;
 }
 
 .app-container {
-  background-color: #fffffffd; /* Gris clair */
+  background-color: #fffffffd; 
   border-radius: 16px;
   padding: 2rem;
   margin: auto;

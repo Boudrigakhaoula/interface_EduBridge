@@ -1,4 +1,4 @@
-import { FaInstagram, FaFacebook, FaEnvelope, FaLinkedin } from 'react-icons/fa';
+import { FaInstagram, FaFacebook, FaEnvelope, FaLinkedin, FaYoutube } from 'react-icons/fa';
 
 function SocialIcons() {
   return (
@@ -14,6 +14,9 @@ function SocialIcons() {
       </a>
       <a href="https://www.linkedin.com/feed/?trk=onboarding-landing" target="_blank" rel="noopener noreferrer" className="text-dark">
         <FaLinkedin />
+      </a>
+      <a href="https://youtu.be/IwlgPZIGV8A?si=0t9yacatdyKOVH-0" target="_blank" rel="noopener noreferrer" className="text-danger">
+        <FaYoutube />
       </a>
     </div>
   );
